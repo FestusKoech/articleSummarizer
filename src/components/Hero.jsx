@@ -13,9 +13,18 @@ const Hero = () => {
       >
         Github
         </button>
+        </nav>
+<h1 className='head_text'>
+Summarize artiles with <br className='max-md:hidden'/> <span className='orange_gradient'>OpenAI GPT-4</span>
+</h1>
+<h2 className='desc'>
+  Summarize articles using AI. This website harnesses the power of
+  AI through RapidAPI. Simply paste the link down below, and click 
+  <strong> Enter!</strong>
 
+</h2>
        
-    </nav>
+  
  
     </header> 
   
