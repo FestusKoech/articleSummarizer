@@ -18,7 +18,7 @@ const Hero = () => {
 Summarize articles with <br className='max-md:hidden'/> <span className='orange_gradient'>OpenAI GPT-4</span>
 </h1>
 <h2 className='desc'>
-<strong> Boiboi,</strong> Now you can summarize articles using AI. This website harnesses the power of
+<strong> Hello there,</strong> Now you can summarize articles using AI. This website harnesses the power of
   AI through RapidAPI. Simply paste the link down below, and click 
   <strong> Enter!</strong> <br />
   &#128515;
